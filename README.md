@@ -19,4 +19,4 @@ The `.pbix` file contains the Power BI project.
 Business Intelligence student at ESEN Manouba.
 ## Dashboard Preview
 
-![Power BI Dashboard](<Capture d'écran 2026-09-20 114243.png>)
+![Dashboard Power BI](dashboard-ventes.png)
